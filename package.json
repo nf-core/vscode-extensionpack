@@ -3,6 +3,7 @@
     "displayName": "nf-core-extensionpack",
     "description": "Extension Pack from the nf-core community",
     "publisher": "nf-core",
+    "repository": "nf-core/nf-core-extensionpack",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
