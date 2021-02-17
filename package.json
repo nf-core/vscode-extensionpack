@@ -10,7 +10,7 @@
         "url": "https://github.com/nf-core/nf-core-extensionpack/issues"
     },
     "homepage": "https://nf-co.re",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "icon": "logo.png",
     "keywords": [
         "nextflow",
