@@ -9,7 +9,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "extensionPack": [
+        "nextflow.nextflow"
     ]
 }
