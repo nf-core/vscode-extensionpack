@@ -5,6 +5,12 @@
     "publisher": "nf-core",
     "repository": "nf-core/nf-core-extensionpack",
     "version": "0.0.1",
+    "keywords": [
+        "nextflow",
+        "nf-core",
+        "bioinformatics",
+        "pipelines"
+    ],
     "engines": {
         "vscode": "^1.53.0"
     },
