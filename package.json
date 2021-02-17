@@ -5,6 +5,7 @@
     "publisher": "nf-core",
     "repository": "nf-core/nf-core-extensionpack",
     "version": "0.0.1",
+    "icon": "logo.png",
     "keywords": [
         "nextflow",
         "nf-core",
