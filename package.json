@@ -6,6 +6,10 @@
     "engines": {
         "vscode": "^1.53.0"
     },
+    "galleryBanner": {
+        "color": "#24af63",
+        "theme": "light"
+    },
     "categories": [
         "Extension Packs"
     ],
