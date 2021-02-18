@@ -4,13 +4,13 @@
     "description": "Extension Pack from the nf-core community",
     "publisher": "nf-core",
     "repository": {
-        "url": "https://github.com/nf-core/nf-core-extensionpack"
+        "url": "https://github.com/nf-core/vscode-extensionpack"
     },
     "bugs": {
-        "url": "https://github.com/nf-core/nf-core-extensionpack/issues"
+        "url": "https://github.com/nf-core/vscode-extensionpack/issues"
     },
     "homepage": "https://nf-co.re",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "icon": "logo.png",
     "keywords": [
         "nextflow",
@@ -29,6 +29,8 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "nextflow.nextflow"
+        "davidanson.vscode-markdownlint",
+        "nextflow.nextflow",
+        "redhat.vscode-yaml"
     ]
 }
