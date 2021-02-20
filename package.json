@@ -29,8 +29,16 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "codezombiech.gitignore",
+        "cssho.vscode-svgviewer",
         "davidanson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "Gruntfuggly.todo-tree",
+        "mechatroner.rainbow-csv",
         "nextflow.nextflow",
-        "redhat.vscode-yaml"
+        "NicolasVuillamy.vscode-groovy-lint",
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
