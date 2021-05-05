@@ -2,13 +2,15 @@
 
 **An extension pack for [VSCode](https://code.visualstudio.com/) with all the tools you'll need to develop with [nf-core](https://nf-co.re/)**, a community effort to collect a curated set of analysis pipelines built using Nextflow.
 
+Note - not all of these may be to your taste! We have tried to include packages that people in the community have found useful, but be prepared to disable any that you don't like the look of after installing ;)
+
 ## Included extensions
 
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - _A basic spell checker that works well with camelCase code._
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - _Support for [EditorConfig](https://editorconfig.org/) profect files for code standardisation._
 * [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - _A extension for Visual Studio Code that assists you in working with `.gitignore` files._
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - _Powerful addon for greater Git insights_
-* [Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - _Lint (code quality), Format and Auto-fix your groovy files_
+* [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - _Highlight indentation level, especially if inconsistent_
 * [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint) - _Markdown linting and style checking for Visual Studio Code_
 * [Nextflow](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) - _Nextflow language support_
 * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - _Highlight columns in csv files in different colors_
