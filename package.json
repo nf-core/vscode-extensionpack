@@ -10,7 +10,7 @@
         "url": "https://github.com/nf-core/vscode-extensionpack/issues"
     },
     "homepage": "https://nf-co.re",
-    "version": "0.2.1",
+    "version": "0.3",
     "icon": "logo.png",
     "keywords": [
         "nextflow",
@@ -35,6 +35,7 @@
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
         "Gruntfuggly.todo-tree",
+        "oderwat.indent-rainbow",
         "mechatroner.rainbow-csv",
         "nextflow.nextflow",
         "NicolasVuillamy.vscode-groovy-lint",
