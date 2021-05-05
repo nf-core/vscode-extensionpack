@@ -10,7 +10,7 @@
         "url": "https://github.com/nf-core/vscode-extensionpack/issues"
     },
     "homepage": "https://nf-co.re",
-    "version": "0.3",
+    "version": "0.3.0",
     "icon": "logo.png",
     "keywords": [
         "nextflow",
