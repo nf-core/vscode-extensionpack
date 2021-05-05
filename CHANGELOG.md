@@ -4,6 +4,6 @@ All notable changes to the "nf-core-extensionpack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 0.3
 
-- Initial release
+- Added `oderwat.indent-rainbow`
