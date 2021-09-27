@@ -13,9 +13,9 @@
     "version": "0.3.1",
     "icon": "logo.png",
     "keywords": [
+        "bioinformatics",
         "nextflow",
         "nf-core",
-        "bioinformatics",
         "pipelines"
     ],
     "engines": {
@@ -35,9 +35,10 @@
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
         "Gruntfuggly.todo-tree",
-        "oderwat.indent-rainbow",
         "mechatroner.rainbow-csv",
+        "ms-vsliveshare.vsliveshare",
         "nextflow.nextflow",
+        "oderwat.indent-rainbow",
         "redhat.vscode-yaml",
         "streetsidesoftware.code-spell-checker"
     ]
