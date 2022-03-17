@@ -12,7 +12,7 @@ Note - not all of these may be to your taste! We have tried to include packages 
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - _Powerful addon for greater Git insights_
 * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - _Highlight indentation level, especially if inconsistent_
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) - _Real-time collaborative development from the comfort of your favorite tools_
-* [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint) - _Markdown linting and style checking for Visual Studio Code_
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - _Code formatter using prettier_
 * [Nextflow](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) - _Nextflow language support_
 * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - _Highlight columns in csv files in different colors_
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - _Open and view SVG images_
