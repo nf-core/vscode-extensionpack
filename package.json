@@ -1,45 +1,45 @@
 {
-    "name": "nf-core-extensionpack",
-    "displayName": "nf-core-extensionpack",
-    "description": "Extension Pack from the nf-core community",
-    "publisher": "nf-core",
-    "repository": {
-        "url": "https://github.com/nf-core/vscode-extensionpack"
-    },
-    "bugs": {
-        "url": "https://github.com/nf-core/vscode-extensionpack/issues"
-    },
-    "homepage": "https://nf-co.re",
-    "version": "0.3.2",
-    "icon": "logo.png",
-    "keywords": [
-        "bioinformatics",
-        "nextflow",
-        "nf-core",
-        "pipelines"
-    ],
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "galleryBanner": {
-        "color": "#24af63",
-        "theme": "light"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "codezombiech.gitignore",
-        "cssho.vscode-svgviewer",
-        "esbenp.prettier-vscode",
-        "eamodio.gitlens",
-        "EditorConfig.EditorConfig",
-        "Gruntfuggly.todo-tree",
-        "mechatroner.rainbow-csv",
-        "ms-vsliveshare.vsliveshare",
-        "nextflow.nextflow",
-        "oderwat.indent-rainbow",
-        "redhat.vscode-yaml",
-        "streetsidesoftware.code-spell-checker"
-    ]
+  "name": "nf-core-extensionpack",
+  "displayName": "nf-core-extensionpack",
+  "description": "Extension Pack from the nf-core community",
+  "publisher": "nf-core",
+  "repository": {
+    "url": "https://github.com/nf-core/vscode-extensionpack"
+  },
+  "bugs": {
+    "url": "https://github.com/nf-core/vscode-extensionpack/issues"
+  },
+  "homepage": "https://nf-co.re",
+  "version": "0.3.2",
+  "icon": "logo.png",
+  "keywords": [
+    "bioinformatics",
+    "nextflow",
+    "nf-core",
+    "pipelines"
+  ],
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "galleryBanner": {
+    "color": "#24af63",
+    "theme": "light"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "codezombiech.gitignore",
+    "cssho.vscode-svgviewer",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "Gruntfuggly.todo-tree",
+    "mechatroner.rainbow-csv",
+    "ms-vsliveshare.vsliveshare",
+    "nextflow.nextflow",
+    "oderwat.indent-rainbow",
+    "redhat.vscode-yaml",
+    "streetsidesoftware.code-spell-checker"
+  ]
 }
