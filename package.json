@@ -31,7 +31,7 @@
     "extensionPack": [
         "codezombiech.gitignore",
         "cssho.vscode-svgviewer",
-        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
         "Gruntfuggly.todo-tree",
