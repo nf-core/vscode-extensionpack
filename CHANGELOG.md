@@ -4,6 +4,10 @@ All notable changes to the "nf-core-extensionpack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.4.0
+
+- Replace `davidanson.vscode-markdownlint` with `esbenp.prettier-vscode`
+
 ## 0.3.1
 
 - Removed `NicolasVuillamy.vscode-groovy-lint` as everyone was disabling it immediately.

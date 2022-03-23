@@ -1,0 +1,9 @@
+# gitignore
+node_modules
+.vscode
+*.vsix
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
