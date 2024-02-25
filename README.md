@@ -15,7 +15,6 @@ Note - not all of these may be to your taste! We have tried to include packages 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - _Code formatter using prettier_
 - [Nextflow](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) - _Nextflow language support_
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - _Highlight columns in csv files in different colors_
-- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - _Open and view SVG images_
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - _Show TODO, FIXME, etc. comment tags in a tree view_
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - _YAML Language Support by Red Hat, with built-in Kubernetes syntax support_
 

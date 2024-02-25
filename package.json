@@ -30,7 +30,6 @@
     ],
     "extensionPack": [
         "codezombiech.gitignore",
-        "cssho.vscode-svgviewer",
         "esbenp.prettier-vscode",
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
