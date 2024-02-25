@@ -4,6 +4,10 @@ All notable changes to the "nf-core-extensionpack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.5.0
+
+- Remove defunct `cssho.vscode-svgviewer`
+
 ## 0.4.0
 
 - Replace `davidanson.vscode-markdownlint` with `esbenp.prettier-vscode`
