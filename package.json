@@ -10,7 +10,7 @@
         "url": "https://github.com/nf-core/vscode-extensionpack/issues"
     },
     "homepage": "https://nf-co.re",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "icon": "logo.png",
     "keywords": [
         "bioinformatics",
