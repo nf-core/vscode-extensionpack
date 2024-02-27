@@ -7,11 +7,9 @@ Note - not all of these may be to your taste! We have tried to include packages 
 ## Included extensions
 
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - _A basic spell checker that works well with camelCase code._
+- [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) - _An extremely fast Python linter and code formatter, written in Rust._
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - _Support for [EditorConfig](https://editorconfig.org/) project files for code standardisation._
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - _A extension for Visual Studio Code that assists you in working with `.gitignore` files._
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - _Powerful addon for greater Git insights_
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - _Highlight indentation level, especially if inconsistent_
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) - _Real-time collaborative development from the comfort of your favorite tools_
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - _Code formatter using prettier_
 - [Nextflow](https://marketplace.visualstudio.com/items?itemName=nextflow.nextflow) - _Nextflow language support_
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - _Highlight columns in csv files in different colors_

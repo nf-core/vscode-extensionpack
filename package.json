@@ -29,13 +29,11 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "codezombiech.gitignore",
         "esbenp.prettier-vscode",
-        "eamodio.gitlens",
         "EditorConfig.EditorConfig",
         "Gruntfuggly.todo-tree",
         "mechatroner.rainbow-csv",
-        "ms-vsliveshare.vsliveshare",
+        "charliermarsh.ruff",
         "nextflow.nextflow",
         "oderwat.indent-rainbow",
         "redhat.vscode-yaml",
