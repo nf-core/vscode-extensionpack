@@ -4,6 +4,11 @@ All notable changes to the "nf-core-extensionpack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.6.0
+
+- Add `onnovalkering.vscode-singularity`
+- Add `ms-azuretools.vscode-docker`
+
 ## 0.5.0
 
 - Add `charliermarsh.ruff`
