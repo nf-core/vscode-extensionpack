@@ -29,4 +29,3 @@ jobs:
         with:
           pat: ${{ secrets.VSCE_TOKEN }}
           registryUrl: https://marketplace.visualstudio.com
-
