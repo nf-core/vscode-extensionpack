@@ -4,6 +4,10 @@ All notable changes to the "nf-core-extensionpack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.7.0
+
+- Add `jebbs.markdown-extended`
+
 ## 0.6.1
 
 - Update the GitHub Actions publishing step to publish to the Open VSX Registry as well.

@@ -17,6 +17,7 @@ Note - not all of these may be to your taste! We have tried to include packages 
 - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) - _An extremely fast Python linter and code formatter, written in Rust._
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - _Show TODO, FIXME, etc. comment tags in a tree view_
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - _YAML Language Support by Red Hat, with built-in Kubernetes syntax support_
+- [Markdown Extended](https://marketplace.visualstudio.com/items?itemName=jebbs.markdown-extended) - _Gives nice markdown previews, including admonitions - see [nf-core/website#2579](https://github.com/nf-core/website/pull/2579)_
 
 Please create a GitHub issue if you can think of any others to recommend!
 

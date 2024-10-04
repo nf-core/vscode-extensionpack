@@ -10,7 +10,7 @@
         "url": "https://github.com/nf-core/vscode-extensionpack/issues"
     },
     "homepage": "https://nf-co.re",
-    "version": "0.6.1",
+    "version": "0.7.0",
     "icon": "logo.png",
     "keywords": [
         "bioinformatics",
@@ -39,6 +39,7 @@
         "oderwat.indent-rainbow",
         "onnovalkering.vscode-singularity",
         "redhat.vscode-yaml",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "jebbs.markdown-extended"
     ]
 }
