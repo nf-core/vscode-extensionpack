@@ -4,6 +4,13 @@ All notable changes to the "nf-core-extensionpack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.8.0
+
+- Add `codezombiech.gitignore`
+- Remove `oderwat.indent-rainbow`
+- Remove `streetsidesoftware.code-spell-checker`
+- Remove `Gruntfuggly.todo-tree`
+
 ## 0.7.0
 
 - Add `jebbs.markdown-extended`
