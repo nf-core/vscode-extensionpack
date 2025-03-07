@@ -9,7 +9,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Add `codezombiech.gitignore`
 - Remove `oderwat.indent-rainbow`
 - Remove `streetsidesoftware.code-spell-checker`
-- Remove `Gruntfuggly.todo-tree`
 
 ## 0.7.0
 

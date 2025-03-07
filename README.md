@@ -15,13 +15,13 @@ Note - not all of these may be to your taste! We have tried to include packages 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - _Code formatter using prettier_
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - _Highlight columns in csv files in different colors_
 - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) - _An extremely fast Python linter and code formatter, written in Rust._
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - _Show TODO, FIXME, etc. comment tags in a tree view_
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - _YAML Language Support by Red Hat, with built-in Kubernetes syntax support_
 
 Some extensions which are not included, but that many in the community find useful are:
 
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - _A basic spell checker that works well with camelCase code._
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - _Highlight indentation level, especially if inconsistent_
-- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - _Show TODO, FIXME, etc. comment tags in a tree view_
 
 Please create a GitHub issue if you can think of any others to recommend!
 
